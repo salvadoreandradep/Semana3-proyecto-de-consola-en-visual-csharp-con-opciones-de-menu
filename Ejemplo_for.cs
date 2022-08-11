@@ -8,5 +8,11 @@ namespace Semana3
 {
     class Ejemplo_for
     {
+
+        public static void estructura_for()
+        {
+            System.Console.WriteLine("for externo");
+        }
+
     }
 }
